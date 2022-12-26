@@ -1,0 +1,20 @@
+{
+  "layer": [
+    {
+      "name": "background",
+      "value": 1
+    },
+    {
+      "name": "player",
+      "value": 2
+    }
+  ],
+  "general": {
+    "designResolution": {
+      "width": 375,
+      "height": 667,
+      "fitWidth": true,
+      "fitHeight": false
+    }
+  }
+}
